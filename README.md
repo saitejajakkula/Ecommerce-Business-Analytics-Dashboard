@@ -123,55 +123,49 @@ Focus areas include:
 
 ---
 
-If you want, I can also align this exactly to **ATS-style resume bullets or LinkedIn project storytelling** (that’s where this kind of content really shines).
+Insight
 
-```
-Got it—you want **exact same content, just fixing the image links** (no extra changes, no added interpretation).
+Sports and Clothing are the top-performing categories in both revenue and profit
+Home and Electronics generate revenue but lag in profitability
 
-Here it is:
+This suggests cost structure or heavy discounting is impacting margins.
 
----
+7. Regional Performance
 
-**Insight**
+Insight
 
-* **Sports and Clothing** are the strongest performing categories in both revenue and profit.
-* **Home and Electronics** show lower profitability compared to revenue.
+Europe → Most profitable region
+Asia → Lowest profit
 
-This suggests that **cost structure or discounting may be affecting margins**.
+Possible reasons include logistics costs, pricing strategy, or marketing efficiency differences.
 
----
+8. Sales Channel Performance
 
-# 7. Regional Performance
+Image Links
 
-**Insight**
+https://github.com/user-attachments/assets/df233746-11bb-40a7-982d-8bdd2a73a60d
+https://github.com/user-attachments/assets/ca21dace-886f-465a-a254-16a54923a812
 
-* **Europe → Most profitable region**
-* **Asia → Lowest profit**
+Insight
 
-Possible reasons include **higher logistics costs, pricing strategies, or regional marketing efficiency**.
+Marketplace → Highest revenue
+Retail → Highest profit
+Online → Lower profitability
 
----
+Retail channels maintain better margins than online platforms.
 
-# 8. Sales Channel Performance
+9. Impact of Discounts
 
-![Screenshot (199)](https://github.com/user-attachments/assets/df233746-11bb-40a7-982d-8bdd2a73a60d)
-![Screenshot (201)](https://github.com/user-attachments/assets/ca21dace-886f-465a-a254-16a54923a812)
+Image Link
 
-**Insight**
+https://github.com/user-attachments/assets/fde34a4c-a20b-47d0-8571-9ac79aa2b0fa
 
-* **Marketplace → Highest revenue**
-* **Retail → Highest profit**
-* **Online → Lower profitability**
+Insight
 
-Retail channels appear to maintain **better margins than online platforms**.
+Higher discounts → Lower profit margins
+Discounting boosts revenue but hurts profitability
 
----
-
----
-
-![Screenshot (202)](https://github.com/user-attachments/assets/fde34a4c-a20b-47d0-8571-9ac79aa2b0fa)
-
-# 9. Impact of Discounts
+This indicates a need for optimized discount strategy.
 
 ```
 
