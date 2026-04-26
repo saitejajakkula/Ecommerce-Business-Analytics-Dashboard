@@ -37,7 +37,10 @@ The goal of this project is to:
 ## **KPI Analysis Based on the Dataset**
 
 <img width="1896" height="178" alt="Screenshot (198)" src="https://github.com/user-attachments/assets/a49d5887-9355-44bb-a286-d46b03c8eeae" />
+
 Figure: KPI Dashboard Overview showing Revenue, Profit, Margin, AOV, Discount, and ROI
+---
+
 ### **1. Total Revenue**
 
 Value: $5,572,100
@@ -285,22 +288,29 @@ Profitability: Profit, Profit_Margin_%
 
 <img width="1821" height="832" alt="Screenshot (212)" src="https://github.com/user-attachments/assets/71b8184b-caf6-4df6-a9d8-6ff93db1fe21" />
 <img width="1814" height="113" alt="Screenshot (211)" src="https://github.com/user-attachments/assets/1ac38400-45f4-4035-b635-ba7682e8067c" />
-Figure: Monthly Revenue & Profit Trend alongside Revenue Distribution by Sales Channel
 
+Figure: Monthly Revenue & Profit Trend alongside Revenue Distribution by Sales Channel
+---
 
 
 ## **1. Electronics and Home generate lower profit compared to revenue → Indicates high costs or discounting.**
 
 <img width="1873" height="629" alt="Screenshot (202)" src="https://github.com/user-attachments/assets/666fe0df-7011-4f6a-833f-cab4b1437a36" />
+
 Figure: Category–Channel Revenue Distribution, Discount Impact on Orders & Revenue, and Marketing Spend vs Profit by Category
+---
 
 ## **2. Asia is the lowest-performing region → Suggests inefficiencies.**
 
 <img width="1894" height="620" alt="Screenshot (208)" src="https://github.com/user-attachments/assets/419bbb13-56e9-4cd2-8532-bb49af22e428" />
+
 Figure: Regional and Category Performance Comparison
+---
 
 <img width="1877" height="505" alt="Screenshot (203)" src="https://github.com/user-attachments/assets/c58c0a00-c41d-48b2-8519-c2ac342d411b" />
+
 Figure: Revenue Distribution by Category and Region with Regional Profit Margin Comparison
+---
 
 ## **3. High discounts (20–30%) reduce profit → Some orders even negative.**
 
@@ -337,7 +347,9 @@ Focusing on high-performing categories, strengthening retail channels, and optim
 ## **Strategic Recommendations**
 
 <img width="1878" height="640" alt="Screenshot (205)" src="https://github.com/user-attachments/assets/3fdad6dd-cc95-4616-b6ef-8b94ebd7721b" />
+
 Figure: Strategic Recommendations Framework for Improving Profitability
+---
 
 * Optimize discount strategy
 * Focus on high-profit categories
