@@ -55,6 +55,7 @@ The analysis focuses on:
 # 5. KPI Analysis
 
 ![KPI Dashboard](https://github.com/user-attachments/assets/21545ff0-9991-49c7-a177-2056c91709da)
+<img width="1896" height="178" alt="Screenshot (198)" src="https://github.com/user-attachments/assets/cad9f661-3676-4038-9ce7-d1369c946d2b" />
 
 ## Total Revenue
 
