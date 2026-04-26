@@ -23,24 +23,27 @@ Management wants to understand:
 
 ---
 
-# **2. Business Objective**
+---
 
-The goal of this project is to:
+## 2. Business Objective
 
-* Identify high-profit and low-profit product categories
-* Analyze the impact of discounts on profit margin
-* Evaluate marketing spend efficiency
-* Compare performance across sales channels (Online, Retail, Marketplace)
-* Identify top-performing regions
+The objective of this project is to analyze e-commerce sales data and identify key drivers of revenue and profitability. The analysis focuses on:
+
+* Identifying high-profit and low-profit product categories
+* Analyzing the impact of discounts on profit margins
+* Evaluating marketing spend efficiency
+* Comparing performance across sales channels (Online, Retail, Marketplace)
+* Identifying top-performing regions
 
 ---
 
-**3. Dataset Overview**
+## 3. Dataset Overview
 
-* **Dataset size:** 5,000 orders
+* **Dataset Size:** 5,000 orders
 * **Scope:** Global e-commerce transactions (2023–2025)
 * **Includes:** Revenue, costs, discounts, marketing spend, product categories, sales channels, and regional data
 
+---
 
 ---
 
