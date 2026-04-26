@@ -1,6 +1,6 @@
 ## **Global E-Commerce Profitability & Sales Performance Analysis**
 
-<img width="1895" height="596" alt="Screenshot (209)" src="https://github.com/user-attachments/assets/6fb16cca-f676-4b50-8fbe-2e35f8436e7d" />
+<img width="1892" height="650" alt="Screenshot (213)" src="https://github.com/user-attachments/assets/0deb27bb-b2ff-40af-af9f-d8d37745f400" />
 
 Figure: End-to-End Business Analysis Overview (Problem, Approach, Insights, and Impact)
 
