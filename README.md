@@ -53,8 +53,7 @@ The analysis focuses on:
 
 
 ```
-<img width="1895" height="596" alt="Screenshot (209)" src="https://github.com/user-attachments/assets/bb4abc91-b9aa-4fdb-8bfe-09880bdc9703" />
-<img width="1896" height="481" alt="Screenshot (198)" src="https://github.com/user-attachments/assets/95f43066-8d03-428e-be3f-36d41fdbf1d8" />
+<img width="1895" height="596" alt="Screenshot (209)" src="https://github.com/user-attachments/assets/5f6202d8-542e-4bff-b96b-18510fb53aa9" />
 
 ---
 
