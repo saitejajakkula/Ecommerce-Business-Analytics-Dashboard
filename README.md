@@ -295,28 +295,23 @@ Figure: Monthly Revenue & Profit Trend alongside Revenue Distribution by Sales C
 
 Figure: Category–Channel Revenue Distribution, Discount Impact on Orders & Revenue, and Marketing Spend vs Profit by Category
 
-
-**1. Electronics and Home generate lower profit compared to revenue → Indicates high costs or discounting.**
-
-
-
-## **2. Asia is the lowest-performing region → Suggests inefficiencies.**
-
 <img width="1894" height="620" alt="Screenshot (208)" src="https://github.com/user-attachments/assets/419bbb13-56e9-4cd2-8532-bb49af22e428" />
 
 Figure: Regional and Category Performance Comparison
-
 
 <img width="1877" height="505" alt="Screenshot (203)" src="https://github.com/user-attachments/assets/c58c0a00-c41d-48b2-8519-c2ac342d411b" />
 
 Figure: Revenue Distribution by Category and Region with Regional Profit Margin Comparison
 
+**1. Electronics and Home generate lower profit compared to revenue → Indicates high costs or discounting.**
 
-## **3. High discounts (20–30%) reduce profit → Some orders even negative.**
+**2. Asia is the lowest-performing region → Suggests inefficiencies.**
 
-## **4. Retail channel is most profitable → Direct sales are stronger.**
+**3. High discounts (20–30%) reduce profit → Some orders even negative.**
 
-## **5. Marketing ROI is strong (8.03x) → Efficient but can be optimized.**
+**4. Retail channel is most profitable → Direct sales are stronger.**
+
+**5. Marketing ROI is strong (8.03x) → Efficient but can be optimized.**
 
 ---
 
