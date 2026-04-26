@@ -51,15 +51,10 @@ The analysis focuses on:
 
 # 4. Dashboard Overview
 
-📷 **Add your full dashboard screenshot here**
-
-Example placement:
 
 ```
-![Dashboard Overview](images/dashboard_overview.png)
-```
-
-This image should be the **main screenshot of your HTML dashboard**.
+<img width="1895" height="596" alt="Screenshot (209)" src="https://github.com/user-attachments/assets/bb4abc91-b9aa-4fdb-8bfe-09880bdc9703" />
+<img width="1896" height="481" alt="Screenshot (198)" src="https://github.com/user-attachments/assets/95f43066-8d03-428e-be3f-36d41fdbf1d8" />
 
 ---
 
@@ -114,13 +109,10 @@ For every **$1 spent on marketing, $8.03 in revenue is generated**, indicating s
 ---
 
 # 6. Product Category Performance
-
-📷 **Add your Category Revenue Chart**
+<img width="1877" height="505" alt="Screenshot (203)" src="https://github.com/user-attachments/assets/25fb8a0b-53e8-447d-984f-9f728b83d9d8" />
+<img width="1894" height="620" alt="Screenshot (208)" src="https://github.com/user-attachments/assets/2efa02e4-8521-416b-b024-5bc52bf60288" />
 
 ```
-![Category Performance](images/category_chart.png)
-```
-
 **Insight**
 
 * **Sports and Clothing** are the strongest performing categories in both revenue and profit.
@@ -129,14 +121,20 @@ For every **$1 spent on marketing, $8.03 in revenue is generated**, indicating s
 This suggests that **cost structure or discounting may be affecting margins**.
 
 ---
+# 7. Regional Performance
 
-# 7. Sales Channel Performance
+**Insight**
 
-📷 **Add Sales Channel Chart**
+* **Europe → Most profitable region**
+* **Asia → Lowest profit**
 
-```
-![Sales Channel Performance](images/channel_chart.png)
-```
+Possible reasons include **higher logistics costs, pricing strategies, or regional marketing efficiency**.
+
+# 8. Sales Channel Performance
+
+<img width="1881" height="883" alt="Screenshot (199)" src="https://github.com/user-attachments/assets/df233746-11bb-40a7-982d-8bdd2a73a60d" />
+<img width="1873" height="120" alt="Screenshot (201)" src="https://github.com/user-attachments/assets/ca21dace-886f-465a-a254-16a54923a812" />
+
 
 **Insight**
 
@@ -148,29 +146,12 @@ Retail channels appear to maintain **better margins than online platforms**.
 
 ---
 
-# 8. Regional Performance
-
-📷 **Add Region Revenue Chart**
-
-```
-![Regional Performance](images/region_chart.png)
-```
-
-**Insight**
-
-* **Europe → Most profitable region**
-* **Asia → Lowest profit**
-
-Possible reasons include **higher logistics costs, pricing strategies, or regional marketing efficiency**.
-
 ---
+<img width="1873" height="629" alt="Screenshot (202)" src="https://github.com/user-attachments/assets/fde34a4c-a20b-47d0-8571-9ac79aa2b0fa" />
+
 
 # 9. Impact of Discounts
 
-📷 **Add Discount Impact Chart**
-
-```
-![Discount Impact](images/discount_chart.png)
 ```
 
 **Evidence**
@@ -188,11 +169,6 @@ Heavy discounting **destroys margins despite increasing sales volume**.
 
 # 10. Marketing Efficiency
 
-📷 **Add Marketing vs Profit Chart**
-
-```
-![Marketing ROI](images/marketing_chart.png)
-```
 
 **Key Metrics**
 
@@ -216,6 +192,7 @@ Marketing campaigns are effective but **channel optimization could further impro
 ---
 
 # 12. Strategic Recommendations
+<img width="1878" height="640" alt="Screenshot (205)" src="https://github.com/user-attachments/assets/701c5ff0-9976-4bb3-9a59-1d97fb4d952d" />
 
 ### Optimize Discount Strategy
 
@@ -244,6 +221,7 @@ Focus on **high-ROI marketing channels**.
 ---
 
 # 13. Final Business Conclusion
+<img width="1878" height="403" alt="Screenshot (204)" src="https://github.com/user-attachments/assets/9586e1e4-5ee0-4249-8d8d-2f96c70d3c59" />
 
 The company demonstrates **strong revenue performance ($5.57M)** with **$993K profit and a 17.8% margin**.
 
