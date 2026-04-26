@@ -208,55 +208,55 @@ Columns used: Region
 
 Why needed: Compare sales performance across regions.
 
-## **3. Product Category Data**
+ **3. Product Category Data**
 
 Columns used: Category
 
 Why needed: Identify top-performing categories.
 
-## **4. Sales Channel Data**
+ **4. Sales Channel Data**
 
 Columns used: Sales_Channel
 
 Why needed: Evaluate performance across Online, Retail, and Marketplace.
 
-## **5. Sales Volume Data**
+ **5. Sales Volume Data**
 
 Columns used: Units_Sold
 
 Why needed: Measure demand and volume trends.
 
-## **6. Pricing Data**
+ **6. Pricing Data**
 
 Columns used: Unit_Price
 
 Why needed: Understand pricing impact.
 
-## **7. Discount Data**
+ **7. Discount Data**
 
 Columns used: Discount_%
 
 Why needed: Analyze effect on margins.
 
-## **8. Revenue Data**
+ **8. Revenue Data**
 
 Columns used: Revenue
 
 Why needed: Measure total performance.
 
-## **9. Cost Data**
+ **9. Cost Data**
 
 Columns used: COGS_per_unit, Total_COGS
 
 Why needed: Analyze cost and profitability.
 
-## **10. Marketing Data**
+ **10. Marketing Data**
 
 Columns used: Marketing_Spend
 
 Why needed: Evaluate marketing efficiency.
 
-## **11. Profitability Data**
+ **11. Profitability Data**
 
 Columns used: Profit, Profit_Margin_%
 
