@@ -283,7 +283,8 @@ Profitability: Profit, Profit_Margin_%
 ## **Core Data Analysis**
 
 <img width="1881" height="883" alt="Screenshot (199)" src="https://github.com/user-attachments/assets/d2ce6e2d-2011-4cc9-a89e-ca0abaf0488a" />
-<img width="1873" height="120" alt="Screenshot (201)" src="https://github.com/user-attachments/assets/d1ecb553-a7b8-4044-91c1-366a2cbde7c1" />
+<img width="1860" height="117" alt="Screenshot (201)" src="https://github.com/user-attachments/assets/4bee2651-3efd-46c5-b85c-bbfd2b583998" />
+
 
 ## **1. Electronics and Home generate lower profit compared to revenue → Indicates high costs or discounting.**
 
