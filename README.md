@@ -378,6 +378,8 @@ By optimizing these factors, the business can significantly improve profit margi
 
 Tools: Python (csv, json, defaultdict), Chart.js, HTML, CSS, JavaScript, GitHub Pages
 
+Dashboard is Completely automated with the help of AI Claude
+
 Skills: Data Analysis, KPI Calculation, Business Analysis, Data Visualization, Dashboard Design, Data Storytelling
 
 ## **📂 Use Case**
@@ -396,7 +398,9 @@ Hi, I’m Saiteja Jakkula 👋
 I’m interested in Business Analytics, Market Research, and Strategy Analysis, with a focus on:
 
 Structured thinking
+
 Second-order impact analysis
+
 Combining Human + AI for decision making
 
 ## **🔗 Connect with me on LinkedIn:**
