@@ -303,6 +303,8 @@ Figure: Regional and Category Performance Comparison
 
 Figure: Revenue Distribution by Category and Region with Regional Profit Margin Comparison
 
+---
+
 **1. Electronics and Home generate lower profit compared to revenue → Indicates high costs or discounting.**
 
 **2. Asia is the lowest-performing region → Suggests inefficiencies.**
