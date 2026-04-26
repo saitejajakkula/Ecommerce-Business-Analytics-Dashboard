@@ -3,7 +3,7 @@
 <img width="1895" height="596" alt="Screenshot (209)" src="https://github.com/user-attachments/assets/6fb16cca-f676-4b50-8fbe-2e35f8436e7d" />
 
 Figure: End-to-End Business Analysis Overview (Problem, Approach, Insights, and Impact)
----
+
 
 ## **Business Problem**
 
@@ -39,7 +39,7 @@ The goal of this project is to:
 <img width="1896" height="178" alt="Screenshot (198)" src="https://github.com/user-attachments/assets/a49d5887-9355-44bb-a286-d46b03c8eeae" />
 
 Figure: KPI Dashboard Overview showing Revenue, Profit, Margin, AOV, Discount, and ROI
----
+
 
 ### **1. Total Revenue**
 
@@ -350,7 +350,7 @@ Focusing on high-performing categories, strengthening retail channels, and optim
 <img width="1878" height="640" alt="Screenshot (205)" src="https://github.com/user-attachments/assets/3fdad6dd-cc95-4616-b6ef-8b94ebd7721b" />
 
 Figure: Strategic Recommendations Framework for Improving Profitability
----
+
 
 * Optimize discount strategy
 * Focus on high-profit categories
@@ -362,7 +362,7 @@ Figure: Strategic Recommendations Framework for Improving Profitability
 <img width="1878" height="403" alt="Screenshot (204)" src="https://github.com/user-attachments/assets/d36b619c-e370-4e10-b1e7-eb567379e49a" />
 
 Figure: Overall Business Impact of Recommended Strategies
----
+
 
 ## **Final Business Conclusion**
 
