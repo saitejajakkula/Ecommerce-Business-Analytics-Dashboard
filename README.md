@@ -1,4 +1,4 @@
-**Global E-Commerce Profitability & Sales Performance Analysis**
+## **Global E-Commerce Profitability & Sales Performance Analysis**
 <img width="1895" height="596" alt="Screenshot (209)" src="https://github.com/user-attachments/assets/6fb16cca-f676-4b50-8fbe-2e35f8436e7d" />
 
 ---
@@ -28,6 +28,7 @@ The goal of this project is to:
 * Evaluate marketing spend efficiency
 * Compare performance across sales channels (Online, Retail, Marketplace)
 * Identify top-performing regions
+* Recommend strategies to improve profitability and optimize business performance
 
 ---
 
