@@ -51,64 +51,79 @@ The analysis focuses on:
 
 # 4. Dashboard Overview
 
+Here’s your rewritten version with cleaner wording **and proper image embedding format (GitHub-ready links)**:
 
-```
-<img width="1893" height="896" alt="Screenshot (210)" src="https://github.com/user-attachments/assets/21545ff0-9991-49c7-a177-2056c91709da" />
-
+---
 
 # 5. KPI Analysis
 
+![KPI Dashboard](https://github.com/user-attachments/assets/21545ff0-9991-49c7-a177-2056c91709da)
+
 ## Total Revenue
 
-**Value:** $5,572,100
+**$5,572,100**
 
-The company generated **$5.57M in total sales revenue** across all regions, product categories, and sales channels. Revenue performance is strong, but deeper analysis is required to evaluate profitability.
+The company generated **$5.57M in total revenue** across all regions, product categories, and sales channels. While topline performance is strong, further analysis is required to assess profitability.
 
 ---
 
 ## Total Profit
 
-**Value:** $993,107
+**$993,107**
 
-The business generated nearly **$1M in profit**, indicating positive financial performance. However, cost factors such as **COGS, marketing spend, and discounts** significantly influence margins.
+The business delivered nearly **$1M in profit**, reflecting solid financial performance. However, key cost drivers such as **COGS, marketing spend, and discounting** continue to impact margins.
 
 ---
 
 ## Profit Margin
 
-**Value:** 17.8%
+**17.8%**
 
-For every **$100 in revenue, the company retains $17.8 as profit**. While this margin is reasonable, there is opportunity to improve profitability through **pricing and discount optimization**.
+The company retains **$17.8 for every $100 in revenue**. This is a healthy margin, with opportunities for improvement through **pricing optimization and better discount control**.
 
 ---
 
 ## Average Order Value (AOV)
 
-**Value:** $1,114 per order
+**$1,114 per order**
 
-Customers spend relatively high amounts per transaction. Strategies like **bundling, upselling, and cross-selling** could increase order value further.
+Customers exhibit a relatively high spend per transaction. There is potential to further increase AOV through **bundling, upselling, and cross-selling strategies**.
 
 ---
 
 ## Average Discount Rate
 
-**Value:** 13.5%
+**13.5%**
 
-Discounting stimulates demand but also reduces margins. Excessive discounting may negatively impact profitability.
+Discounting helps drive sales volume but puts pressure on profitability. Optimizing discount levels is critical to maintaining a balance between **growth and margins**.
 
 ---
 
 ## Marketing ROI
 
-**Value:** 8.03x
+**8.03x**
 
-For every **$1 spent on marketing, $8.03 in revenue is generated**, indicating strong marketing efficiency.
+For every **$1 invested in marketing, $8.03 in revenue is generated**, indicating strong marketing efficiency and effective campaign performance.
 
 ---
 
 # 6. Product Category Performance
-<img width="1877" height="505" alt="Screenshot (203)" src="https://github.com/user-attachments/assets/25fb8a0b-53e8-447d-984f-9f728b83d9d8" />
-<img width="1894" height="620" alt="Screenshot (208)" src="https://github.com/user-attachments/assets/2efa02e4-8521-416b-b024-5bc52bf60288" />
+
+![Category Performance 1](https://github.com/user-attachments/assets/25fb8a0b-53e8-447d-984f-9f728b83d9d8)
+![Category Performance 2](https://github.com/user-attachments/assets/2efa02e4-8521-416b-b024-5bc52bf60288)
+
+This section evaluates category-level performance to understand contributions to **revenue, profitability, and overall business outcomes**.
+
+Focus areas include:
+
+* Revenue contribution by category
+* Profitability comparison across categories
+* Impact of discounting and cost structure
+* Identification of high-performing and underperforming segments
+
+---
+
+If you want, I can also align this exactly to **ATS-style resume bullets or LinkedIn project storytelling** (that’s where this kind of content really shines).
 
 ```
 **Insight**
