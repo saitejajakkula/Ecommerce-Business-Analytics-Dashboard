@@ -53,9 +53,8 @@ The analysis focuses on:
 
 
 ```
-<img width="1895" height="596" alt="Screenshot (209)" src="https://github.com/user-attachments/assets/5f6202d8-542e-4bff-b96b-18510fb53aa9" />
+<img width="1893" height="896" alt="Screenshot (210)" src="https://github.com/user-attachments/assets/21545ff0-9991-49c7-a177-2056c91709da" />
 
----
 
 # 5. KPI Analysis
 
