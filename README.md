@@ -35,11 +35,12 @@ The goal of this project is to:
 
 ---
 
-# **3. Dataset Overview**
+**3. Dataset Overview**
 
-* Dataset size: **5,000 orders**
-* Scope: Global e-commerce transactions
-* Includes revenue, cost, discount, marketing, and regional data
+* **Dataset size:** 5,000 orders
+* **Scope:** Global e-commerce transactions (2023–2025)
+* **Includes:** Revenue, costs, discounts, marketing spend, product categories, sales channels, and regional data
+
 
 ---
 
