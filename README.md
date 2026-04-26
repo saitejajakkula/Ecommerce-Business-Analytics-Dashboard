@@ -1,4 +1,3 @@
-
 # Ecommerce Business Analytics Dashboard
 
 Analysis of global e-commerce data to identify **profit drivers, discount impact, and business performance insights**.
@@ -50,8 +49,6 @@ The analysis focuses on:
 ---
 
 # 4. Dashboard Overview
-
-Here’s your rewritten version with cleaner wording **and proper image embedding format (GitHub-ready links)**:
 
 ---
 
@@ -130,7 +127,9 @@ Home and Electronics generate revenue but lag in profitability
 
 This suggests cost structure or heavy discounting is impacting margins.
 
-7. Regional Performance
+---
+
+# 7. Regional Performance
 
 Insight
 
@@ -139,12 +138,12 @@ Asia → Lowest profit
 
 Possible reasons include logistics costs, pricing strategy, or marketing efficiency differences.
 
-8. Sales Channel Performance
+---
 
-Image Links
+# 8. Sales Channel Performance
 
-https://github.com/user-attachments/assets/df233746-11bb-40a7-982d-8bdd2a73a60d
-https://github.com/user-attachments/assets/ca21dace-886f-465a-a254-16a54923a812
+![Sales Channel 1](https://github.com/user-attachments/assets/df233746-11bb-40a7-982d-8bdd2a73a60d)
+![Sales Channel 2](https://github.com/user-attachments/assets/ca21dace-886f-465a-a254-16a54923a812)
 
 Insight
 
@@ -154,11 +153,11 @@ Online → Lower profitability
 
 Retail channels maintain better margins than online platforms.
 
-9. Impact of Discounts
+---
 
-Image Link
+# 9. Impact of Discounts
 
-https://github.com/user-attachments/assets/fde34a4c-a20b-47d0-8571-9ac79aa2b0fa
+![Discount Impact](https://github.com/user-attachments/assets/fde34a4c-a20b-47d0-8571-9ac79aa2b0fa)
 
 Insight
 
@@ -167,7 +166,7 @@ Discounting boosts revenue but hurts profitability
 
 This indicates a need for optimized discount strategy.
 
-```
+---
 
 **Evidence**
 
@@ -183,7 +182,6 @@ Heavy discounting **destroys margins despite increasing sales volume**.
 ---
 
 # 10. Marketing Efficiency
-
 
 **Key Metrics**
 
@@ -207,7 +205,8 @@ Marketing campaigns are effective but **channel optimization could further impro
 ---
 
 # 12. Strategic Recommendations
-<img width="1878" height="640" alt="Screenshot (205)" src="https://github.com/user-attachments/assets/701c5ff0-9976-4bb3-9a59-1d97fb4d952d" />
+
+![Recommendations](https://github.com/user-attachments/assets/701c5ff0-9976-4bb3-9a59-1d97fb4d952d)
 
 ### Optimize Discount Strategy
 
@@ -237,7 +236,7 @@ Focus on **high-ROI marketing channels**.
 
 # 13. Final Business Conclusion
 
-<img width="1878" height="403" alt="Screenshot (204)" src="https://github.com/user-attachments/assets/9586e1e4-5ee0-4249-8d8d-2f96c70d3c59" />
+![Conclusion](https://github.com/user-attachments/assets/9586e1e4-5ee0-4249-8d8d-2f96c70d3c59)
 
 The company demonstrates **strong revenue performance ($5.57M)** with **$993K profit and a 17.8% margin**.
 
@@ -250,4 +249,5 @@ However, profitability is influenced by:
 By optimizing **pricing, marketing investment, product focus, and channel strategy**, the company can significantly improve profitability and long-term growth.
 
 ---
+
 
