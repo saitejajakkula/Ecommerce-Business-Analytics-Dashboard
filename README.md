@@ -374,4 +374,35 @@ By optimizing these factors, the business can significantly improve profit margi
 
 🔗 Live Dashboard: https://saitejajakkula.github.io/Ecommerce-Business-Analytics-Dashboard/
 
-🔗 Author (LinkedIn): https://www.linkedin.com/in/jakkula-saiteja/
+## **🛠️ Tools & Skills Used**
+
+Tools: Python (csv, json, defaultdict), Chart.js, HTML, CSS, JavaScript, GitHub Pages
+
+Skills: Data Analysis, KPI Calculation, Business Analysis, Data Visualization, Dashboard Design, Data Storytelling
+
+## **📂 Use Case**
+
+This project is ideal for demonstrating:
+
+Business Analyst skills
+Data-driven decision making
+Structured problem solving
+Insight generation from data
+
+## **👨‍💼 About Me**
+
+Hi, I’m Saiteja Jakkula 👋
+
+I’m interested in Business Analytics, Market Research, and Strategy Analysis, with a focus on:
+
+Structured thinking
+Second-order impact analysis
+Combining Human + AI for decision making
+
+## **🔗 Connect with me on LinkedIn:**
+
+https://www.linkedin.com/in/jakkula-saiteja/
+
+⭐ If you found this useful
+
+Give this repo a ⭐ and feel free to connect or reach out!
