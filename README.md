@@ -1,20 +1,15 @@
-# Ecommerce Business Analytics Dashboard
+# **PROJECT NAME**
 
-Analysis of global e-commerce data to identify **profit drivers, discount impact, and business performance insights**.
+**Global E-Commerce Profitability & Sales Performance Analysis**
+<img width="1895" height="596" alt="Screenshot (209)" src="https://github.com/user-attachments/assets/6fb16cca-f676-4b50-8fbe-2e35f8436e7d" />
 
 ---
 
-# 📊 Project Report
+## **Business Problem**
 
-**Global E-Commerce Profitability & Sales Performance Analysis**
+An e-commerce company selling multiple product categories across global regions is experiencing inconsistent profitability.
 
-![KPI Dashboard](https://github.com/user-attachments/assets/21545ff0-9991-49c7-a177-2056c91709da)
-
-# 1. Business Problem
-
-An e-commerce company selling multiple product categories across global regions is experiencing **inconsistent profitability**.
-
-Although revenue appears strong, profits fluctuate significantly across **product categories, sales channels, and discount strategies**.
+While revenue appears strong, profits fluctuate significantly across product categories, sales channels, and discount strategies.
 
 Management wants to understand:
 
@@ -26,224 +21,311 @@ Management wants to understand:
 
 ---
 
-# 2. Business Objective
+## **Business Objective**
 
-The objective of this project is to analyze e-commerce sales data and identify key drivers of revenue and profitability.
+The goal of this project is to:
 
-The analysis focuses on:
-
-* Identifying high-profit and low-profit product categories
-* Analyzing the impact of discounts on profit margins
-* Evaluating marketing spend efficiency
-* Comparing performance across sales channels (Online, Retail, Marketplace)
-* Identifying top-performing regions
+* Identify high-profit and low-profit product categories
+* Analyze the impact of discounts on profit margin
+* Evaluate marketing spend efficiency
+* Compare performance across sales channels (Online, Retail, Marketplace)
+* Identify top-performing regions
 
 ---
 
-# 3. Dataset Overview
+## **KPI Analysis Based on the Dataset**
+<img width="1896" height="178" alt="Screenshot (198)" src="https://github.com/user-attachments/assets/a49d5887-9355-44bb-a286-d46b03c8eeae" />
 
-* **Dataset Size:** 5,000 orders
-* **Scope:** Global e-commerce transactions (2023–2025)
-* **Includes:** Revenue, costs, discounts, marketing spend, product categories, sales channels, and regional data
+### **1. Total Revenue**
 
----
+Value: $5,572,100
 
-# 4. KPI Analysis
+Insight:
+The company generated $5.57M in total sales revenue across all regions, product categories, and sales channels.
 
-<img width="1896" height="178" alt="Screenshot (198)" src="https://github.com/user-attachments/assets/cad9f661-3676-4038-9ce7-d1369c946d2b" />
-
-## Total Revenue
-
-**$5,572,100**
-
-The company generated **$5.57M in total revenue** across all regions, product categories, and sales channels. While topline performance is strong, further analysis is required to assess profitability.
+This indicates strong sales volume, but revenue alone does not guarantee profitability. Therefore, analyzing cost structure and discount strategy is important to understand overall financial performance.
 
 ---
 
-## Total Profit
+### **2. Total Profit**
 
-**$993,107**
+Value: $993,107
 
-The business delivered nearly **$1M in profit**, reflecting solid financial performance. However, key cost drivers such as **COGS, marketing spend, and discounting** continue to impact margins.
+Insight:
+The business generated nearly $1M in total profit from its operations.
 
----
+Although revenue is high, the profit level suggests that cost factors such as COGS, marketing spend, and discounts significantly affect margins.
 
-## Profit Margin
-
-**17.8%**
-
-The company retains **$17.8 for every $100 in revenue**. This is a healthy margin, with opportunities for improvement through **pricing optimization and better discount control**.
+This indicates an opportunity to optimize operational efficiency and pricing strategy.
 
 ---
 
-## Average Order Value (AOV)
+### **3. Profit Margin**
 
-**$1,114 per order**
+Value: 17.8%
 
-Customers exhibit a relatively high spend per transaction. There is potential to further increase AOV through **bundling, upselling, and cross-selling strategies**.
+Insight:
+The overall profit margin of the business is 17.8%.
 
----
+This means that for every $100 in revenue, the company keeps about $17.8 as profit.
 
-## Average Discount Rate
-
-**13.5%**
-
-Discounting helps drive sales volume but puts pressure on profitability. Optimizing discount levels is critical to maintaining a balance between **growth and margins**.
+While this margin is acceptable for many e-commerce businesses, there is potential to improve profitability by reducing excessive discounts and optimizing marketing spend.
 
 ---
 
-## Marketing ROI
+### **4. Average Order Value (AOV)**
 
-**8.03x**
+Value: $1,114 per order
 
-For every **$1 invested in marketing, $8.03 in revenue is generated**, indicating strong marketing efficiency and effective campaign performance.
+Insight:
+Customers spend an average of $1,114 per transaction.
 
----
+A relatively high AOV suggests that customers tend to purchase multiple units or higher-priced products, contributing positively to revenue growth.
 
-# 5. Product Category Performance
-
-![Category Performance 1](https://github.com/user-attachments/assets/25fb8a0b-53e8-447d-984f-9f728b83d9d8)
-![Category Performance 2](https://github.com/user-attachments/assets/2efa02e4-8521-416b-b024-5bc52bf60288)
-
-This section evaluates category-level performance to understand contributions to **revenue, profitability, and overall business outcomes**.
-
-Focus areas include:
-
-* Revenue contribution by category
-* Profitability comparison across categories
-* Impact of discounting and cost structure
-* Identification of high-performing and underperforming segments
+Increasing AOV further through bundling, upselling, and cross-selling strategies could significantly improve revenue.
 
 ---
 
-Insight
+### **5. Average Discount Rate**
 
-Sports and Clothing are the top-performing categories in both revenue and profit
-Home and Electronics generate revenue but lag in profitability
+Value: 13.5%
 
-This suggests cost structure or heavy discounting is impacting margins.
+Insight:
+The company provides an average discount of 13.5% across orders.
 
----
+While discounts help stimulate demand, excessive discounting can erode profit margins.
 
-# 6. Regional Performance
-
-Insight
-
-Europe → Most profitable region
-Asia → Lowest profit
-
-Possible reasons include logistics costs, pricing strategy, or marketing efficiency differences.
+Further analysis should evaluate whether higher discount levels actually lead to proportional increases in revenue.
 
 ---
 
-# 7. Sales Channel Performance
+### **6. Marketing ROI**
 
-![Sales Channel 1](https://github.com/user-attachments/assets/df233746-11bb-40a7-982d-8bdd2a73a60d)
-![Sales Channel 2](https://github.com/user-attachments/assets/ca21dace-886f-465a-a254-16a54923a812)
+Value: 8.03x
 
-Insight
+Insight:
+For every $1 spent on marketing, the company generates approximately $8.03 in revenue.
 
-Marketplace → Highest revenue
-Retail → Highest profit
-Online → Lower profitability
+This indicates strong marketing efficiency, suggesting that marketing investments are effectively driving sales.
 
-Retail channels maintain better margins than online platforms.
+However, further analysis could determine which channels or campaigns deliver the highest ROI.
 
 ---
 
-# 8. Impact of Discounts
+## **7. Product Category Performance**
 
-![Discount Impact](https://github.com/user-attachments/assets/fde34a4c-a20b-47d0-8571-9ac79aa2b0fa)
+Revenue by Category:
 
-Insight
+Sports: $1.16M
+Clothing: $1.16M
+Beauty: $1.12M
+Electronics: $1.09M
+Home: $1.04M
 
-Higher discounts → Lower profit margins
-Discounting boosts revenue but hurts profitability
+Profit by Category:
 
-This indicates a need for optimized discount strategy.
+Sports: $213K
+Clothing: $208K
+Beauty: $199K
+Electronics: $188K
+Home: $183K
 
----
+Insight:
+Sports and Clothing are the top-performing categories in both revenue and profit.
 
-**Evidence**
-
-* Average discount: **13.53%**
-* **20–30% discounts significantly reduce profitability**
-
-Example:
-
-* **30% discount → Profit = –$355**
-
-Heavy discounting **destroys margins despite increasing sales volume**.
-
----
-
-# 9. Marketing Efficiency
-
-**Key Metrics**
-
-* Total Revenue: **$5,572,100**
-* Marketing Spend: **~$694K**
-* ROI: **8.03x**
-
-Marketing campaigns are effective but **channel optimization could further improve returns**.
+Home shows the lowest profitability, suggesting possible issues with pricing, costs, or discount strategies.
 
 ---
 
-# 10. Key Business Insights
+## **8. Sales Channel Performance**
 
-1. **Heavy discounts reduce profit margins**
-2. **Electronics generate high revenue but lower profitability**
-3. **Sports and Clothing are the most profitable categories**
-4. **Retail channel provides the best margins**
-5. **Asia is the lowest performing region**
-6. **Marketing investment generates strong ROI**
+Revenue by Channel:
 
----
+Marketplace: $1.90M
+Online: $1.84M
+Retail: $1.83M
 
-# 11. Strategic Recommendations
+Profit by Channel:
 
-![Recommendations](https://github.com/user-attachments/assets/701c5ff0-9976-4bb3-9a59-1d97fb4d952d)
+Retail: $360K
+Marketplace: $350K
+Online: $282K
 
-### Optimize Discount Strategy
-
-Avoid blanket promotions and implement **targeted discounts**.
-
-### Focus on High-Profit Categories
-
-Increase investment in **Sports and Clothing**.
-
-### Improve Electronics and Home Margins
-
-Optimize pricing and reduce costs.
-
-### Strengthen Retail Channel
-
-Expand direct sales channels to **retain higher profit margins**.
-
-### Improve Regional Strategy
-
-Optimize **pricing and logistics in Asia**.
-
-### Optimize Marketing Spend
-
-Focus on **high-ROI marketing channels**.
+Insight:
+Marketplace generates the highest revenue.
+Retail generates the highest profit.
+Online has lower profitability, indicating higher marketing or operational costs.
 
 ---
 
-# 12. Final Business Conclusion
+## **9. Regional Performance**
 
-![Conclusion](https://github.com/user-attachments/assets/9586e1e4-5ee0-4249-8d8d-2f96c70d3c59)
+Revenue by Region:
 
-The company demonstrates **strong revenue performance ($5.57M)** with **$993K profit and a 17.8% margin**.
+Europe: $1.16M
+South America: $1.14M
+MEA: $1.10M
+North America: $1.09M
+Asia: $1.07M
 
-However, profitability is influenced by:
+Profit by Region:
 
-* Discount strategies
-* Cost structure
-* Regional inefficiencies
+Europe: $216K
+MEA: $198K
+North America: $197K
+South America: $197K
+Asia: $183K
 
-By optimizing **pricing, marketing investment, product focus, and channel strategy**, the company can significantly improve profitability and long-term growth.
+Insight:
+Europe is the strongest market in both revenue and profit.
+Asia generates the lowest profit, suggesting cost inefficiencies or pricing issues.
 
 ---
 
+## **Summary of Key KPIs**
+
+Total Revenue: $5.57M
+Total Profit: $993K
+Profit Margin: 17.8%
+Average Order Value: $1,114
+Average Discount: 13.5%
+Marketing ROI: 8.03x
+
+---
+
+## **Data Requirements**
+
+### **1. Order / Transaction Data**
+
+Columns used: Order_ID, Order_Date
+Why needed: Identify each transaction uniquely and analyze sales trends over time.
+
+### **2. Market / Geographic Data**
+
+Columns used: Region
+Why needed: Compare sales performance across regions.
+
+### **3. Product Category Data**
+
+Columns used: Category
+Why needed: Identify top-performing categories.
+
+### **4. Sales Channel Data**
+
+Columns used: Sales_Channel
+Why needed: Evaluate performance across Online, Retail, and Marketplace.
+
+### **5. Sales Volume Data**
+
+Columns used: Units_Sold
+Why needed: Measure demand and volume trends.
+
+### **6. Pricing Data**
+
+Columns used: Unit_Price
+Why needed: Understand pricing impact.
+
+### **7. Discount Data**
+
+Columns used: Discount_%
+Why needed: Analyze effect on margins.
+
+### **8. Revenue Data**
+
+Columns used: Revenue
+Why needed: Measure total performance.
+
+### **9. Cost Data**
+
+Columns used: COGS_per_unit, Total_COGS
+Why needed: Analyze cost and profitability.
+
+### **10. Marketing Data**
+
+Columns used: Marketing_Spend
+Why needed: Evaluate marketing efficiency.
+
+### **11. Profitability Data**
+
+Columns used: Profit, Profit_Margin_%
+Why needed: Measure financial performance.
+
+---
+
+## **Final Dataset Structure**
+
+Transaction Data: Order_ID, Order_Date
+Market Data: Region
+Product Data: Category
+Channel Data: Sales_Channel
+Sales Volume: Units_Sold
+Pricing: Unit_Price
+Discounts: Discount_%
+Revenue: Revenue
+Cost: COGS_per_unit, Total_COGS
+Marketing: Marketing_Spend
+Profitability: Profit, Profit_Margin_%
+
+---
+
+## **Core Data Analysis**
+<img width="1881" height="883" alt="Screenshot (199)" src="https://github.com/user-attachments/assets/d2ce6e2d-2011-4cc9-a89e-ca0abaf0488a" />
+<img width="1873" height="120" alt="Screenshot (201)" src="https://github.com/user-attachments/assets/d1ecb553-a7b8-4044-91c1-366a2cbde7c1" />
+
+1. Electronics and Home generate lower profit compared to revenue → Indicates high costs or discounting.
+<img width="1873" height="629" alt="Screenshot (202)" src="https://github.com/user-attachments/assets/666fe0df-7011-4f6a-833f-cab4b1437a36" />
+
+2. Asia is the lowest-performing region → Suggests inefficiencies.
+<img width="1894" height="620" alt="Screenshot (208)" src="https://github.com/user-attachments/assets/419bbb13-56e9-4cd2-8532-bb49af22e428" />
+
+<img width="1877" height="505" alt="Screenshot (203)" src="https://github.com/user-attachments/assets/c58c0a00-c41d-48b2-8519-c2ac342d411b" />
+
+4. High discounts (20–30%) reduce profit → Some orders even negative.
+
+5. Retail channel is most profitable → Direct sales are stronger.
+
+6. Marketing ROI is strong (8.03x) → Efficient but can be optimized.
+
+---
+
+## **Final Analyst Conclusion**
+
+The company generates strong global revenue ($5.57M) with $993K profit and a 17.8% margin.
+
+However, profitability is affected by discount-heavy orders, lower margins in Electronics and Home, and regional inefficiencies.
+
+Focusing on high-performing categories, strengthening retail channels, and optimizing discount strategies can significantly improve profitability.
+
+---
+
+## **Business Insights**
+<img width="1893" height="240" alt="Screenshot (210)" src="https://github.com/user-attachments/assets/918504d2-42cc-42e7-ba14-4f93aa074b37" />
+
+* Discounts reduce profit margins
+* Electronics has lower profitability
+* Sports and Clothing are strong profit drivers
+* Retail channel gives highest profit
+* Asia has lower profitability
+* Marketing ROI is strong
+
+---
+
+## **Strategic Recommendations**
+<img width="1878" height="640" alt="Screenshot (205)" src="https://github.com/user-attachments/assets/3fdad6dd-cc95-4616-b6ef-8b94ebd7721b" />
+
+* Optimize discount strategy
+* Focus on high-profit categories
+* Improve Electronics & Home margins
+* Strengthen Retail channel
+* Improve Asia strategy
+* Optimize marketing allocation
+<img width="1878" height="403" alt="Screenshot (204)" src="https://github.com/user-attachments/assets/d36b619c-e370-4e10-b1e7-eb567379e49a" />
+
+---
+
+## **Final Business Conclusion**
+
+The company demonstrates strong revenue performance, but profitability depends on pricing, cost structure, and regional efficiency.
+
+By optimizing these factors, the business can significantly improve profit margins and long-term growth.
 
