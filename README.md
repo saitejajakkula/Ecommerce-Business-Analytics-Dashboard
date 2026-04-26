@@ -126,6 +126,12 @@ Focus areas include:
 If you want, I can also align this exactly to **ATS-style resume bullets or LinkedIn project storytelling** (that’s where this kind of content really shines).
 
 ```
+Got it—you want **exact same content, just fixing the image links** (no extra changes, no added interpretation).
+
+Here it is:
+
+---
+
 **Insight**
 
 * **Sports and Clothing** are the strongest performing categories in both revenue and profit.
@@ -134,6 +140,7 @@ If you want, I can also align this exactly to **ATS-style resume bullets or Link
 This suggests that **cost structure or discounting may be affecting margins**.
 
 ---
+
 # 7. Regional Performance
 
 **Insight**
@@ -143,11 +150,12 @@ This suggests that **cost structure or discounting may be affecting margins**.
 
 Possible reasons include **higher logistics costs, pricing strategies, or regional marketing efficiency**.
 
+---
+
 # 8. Sales Channel Performance
 
-<img width="1881" height="883" alt="Screenshot (199)" src="https://github.com/user-attachments/assets/df233746-11bb-40a7-982d-8bdd2a73a60d" />
-<img width="1873" height="120" alt="Screenshot (201)" src="https://github.com/user-attachments/assets/ca21dace-886f-465a-a254-16a54923a812" />
-
+![Screenshot (199)](https://github.com/user-attachments/assets/df233746-11bb-40a7-982d-8bdd2a73a60d)
+![Screenshot (201)](https://github.com/user-attachments/assets/ca21dace-886f-465a-a254-16a54923a812)
 
 **Insight**
 
@@ -160,8 +168,8 @@ Retail channels appear to maintain **better margins than online platforms**.
 ---
 
 ---
-<img width="1873" height="629" alt="Screenshot (202)" src="https://github.com/user-attachments/assets/fde34a4c-a20b-47d0-8571-9ac79aa2b0fa" />
 
+![Screenshot (202)](https://github.com/user-attachments/assets/fde34a4c-a20b-47d0-8571-9ac79aa2b0fa)
 
 # 9. Impact of Discounts
 
