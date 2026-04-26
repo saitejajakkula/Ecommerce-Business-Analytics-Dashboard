@@ -8,7 +8,7 @@ Analysis of global e-commerce data to identify **profit drivers, discount impact
 
 **Global E-Commerce Profitability & Sales Performance Analysis**
 
----
+![KPI Dashboard](https://github.com/user-attachments/assets/21545ff0-9991-49c7-a177-2056c91709da)
 
 # 1. Business Problem
 
@@ -48,13 +48,8 @@ The analysis focuses on:
 
 ---
 
-# 4. Dashboard Overview
+# 4. KPI Analysis
 
----
-
-# 5. KPI Analysis
-
-![KPI Dashboard](https://github.com/user-attachments/assets/21545ff0-9991-49c7-a177-2056c91709da)
 <img width="1896" height="178" alt="Screenshot (198)" src="https://github.com/user-attachments/assets/cad9f661-3676-4038-9ce7-d1369c946d2b" />
 
 ## Total Revenue
@@ -105,7 +100,7 @@ For every **$1 invested in marketing, $8.03 in revenue is generated**, indicatin
 
 ---
 
-# 6. Product Category Performance
+# 5. Product Category Performance
 
 ![Category Performance 1](https://github.com/user-attachments/assets/25fb8a0b-53e8-447d-984f-9f728b83d9d8)
 ![Category Performance 2](https://github.com/user-attachments/assets/2efa02e4-8521-416b-b024-5bc52bf60288)
@@ -130,7 +125,7 @@ This suggests cost structure or heavy discounting is impacting margins.
 
 ---
 
-# 7. Regional Performance
+# 6. Regional Performance
 
 Insight
 
@@ -141,7 +136,7 @@ Possible reasons include logistics costs, pricing strategy, or marketing efficie
 
 ---
 
-# 8. Sales Channel Performance
+# 7. Sales Channel Performance
 
 ![Sales Channel 1](https://github.com/user-attachments/assets/df233746-11bb-40a7-982d-8bdd2a73a60d)
 ![Sales Channel 2](https://github.com/user-attachments/assets/ca21dace-886f-465a-a254-16a54923a812)
@@ -156,7 +151,7 @@ Retail channels maintain better margins than online platforms.
 
 ---
 
-# 9. Impact of Discounts
+# 8. Impact of Discounts
 
 ![Discount Impact](https://github.com/user-attachments/assets/fde34a4c-a20b-47d0-8571-9ac79aa2b0fa)
 
@@ -182,7 +177,7 @@ Heavy discounting **destroys margins despite increasing sales volume**.
 
 ---
 
-# 10. Marketing Efficiency
+# 9. Marketing Efficiency
 
 **Key Metrics**
 
@@ -194,7 +189,7 @@ Marketing campaigns are effective but **channel optimization could further impro
 
 ---
 
-# 11. Key Business Insights
+# 10. Key Business Insights
 
 1. **Heavy discounts reduce profit margins**
 2. **Electronics generate high revenue but lower profitability**
@@ -205,7 +200,7 @@ Marketing campaigns are effective but **channel optimization could further impro
 
 ---
 
-# 12. Strategic Recommendations
+# 11. Strategic Recommendations
 
 ![Recommendations](https://github.com/user-attachments/assets/701c5ff0-9976-4bb3-9a59-1d97fb4d952d)
 
@@ -235,7 +230,7 @@ Focus on **high-ROI marketing channels**.
 
 ---
 
-# 13. Final Business Conclusion
+# 12. Final Business Conclusion
 
 ![Conclusion](https://github.com/user-attachments/assets/9586e1e4-5ee0-4249-8d8d-2f96c70d3c59)
 
