@@ -334,6 +334,7 @@ Focusing on high-performing categories, strengthening retail channels, and optim
 
 <img width="1893" height="240" alt="Screenshot (210)" src="https://github.com/user-attachments/assets/918504d2-42cc-42e7-ba14-4f93aa074b37" />
 
+---
 
 * Discounts reduce profit margins
 * Electronics has lower profitability
