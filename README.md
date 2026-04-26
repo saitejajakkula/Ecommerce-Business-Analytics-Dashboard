@@ -363,17 +363,19 @@ Figure: Strategic Recommendations Framework for Improving Profitability
 
 Figure: Overall Business Impact of Recommended Strategies
 
-
+---
 ## **Final Business Conclusion**
 
 The company demonstrates strong revenue performance, but profitability depends on pricing, cost structure, and regional efficiency.
 
 By optimizing these factors, the business can significantly improve profit margins and long-term growth.
 
+---
 ## **Project link**
 
 🔗 Live Dashboard: https://saitejajakkula.github.io/Ecommerce-Business-Analytics-Dashboard/
 
+---
 ## **🛠️ Tools & Skills Used**
 
 Tools: Python (csv, json, defaultdict), Chart.js, HTML, CSS, JavaScript, GitHub Pages
@@ -382,6 +384,7 @@ Dashboard is Completely automated with the help of AI Claude
 
 Skills: Data Analysis, KPI Calculation, Business Analysis, Data Visualization, Dashboard Design, Data Storytelling
 
+---
 ## **📂 Use Case**
 
 This project is ideal for demonstrating:
@@ -391,6 +394,7 @@ Data-driven decision making
 Structured problem solving
 Insight generation from data
 
+---
 ## **👨‍💼 About Me**
 
 Hi, I’m Saiteja Jakkula 👋
@@ -403,6 +407,7 @@ Second-order impact analysis
 
 Combining Human + AI for decision making
 
+---
 ## **🔗 Connect with me on LinkedIn:**
 
 💼 https://www.linkedin.com/in/jakkula-saiteja/
