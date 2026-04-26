@@ -221,6 +221,7 @@ Focus on **high-ROI marketing channels**.
 ---
 
 # 13. Final Business Conclusion
+
 <img width="1878" height="403" alt="Screenshot (204)" src="https://github.com/user-attachments/assets/9586e1e4-5ee0-4249-8d8d-2f96c70d3c59" />
 
 The company demonstrates **strong revenue performance ($5.57M)** with **$993K profit and a 17.8% margin**.
