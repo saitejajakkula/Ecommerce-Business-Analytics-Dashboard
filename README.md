@@ -1,6 +1,4 @@
-# **PROJECT NAME**
-
-**Global E-Commerce Profitability & Sales Performance Analysis**
+#**Global E-Commerce Profitability & Sales Performance Analysis**
 <img width="1895" height="596" alt="Screenshot (209)" src="https://github.com/user-attachments/assets/6fb16cca-f676-4b50-8fbe-2e35f8436e7d" />
 
 ---
@@ -193,7 +191,7 @@ Marketing ROI: 8.03x
 
 ---
 
-## **Data Requirements**
+## **Data Requirements Gathered**
 
 ### **1. Order / Transaction Data**
 
