@@ -196,13 +196,13 @@ Marketing ROI: 8.03x
 
 ## **Data Requirements Gathered**
 
-## **1. Order / Transaction Data**
+**1. Order / Transaction Data**
 
 Columns used: Order_ID, Order_Date
 
 Why needed: Identify each transaction uniquely and analyze sales trends over time.
 
-## **2. Market / Geographic Data**
+ **2. Market / Geographic Data**
 
 Columns used: Region
 
