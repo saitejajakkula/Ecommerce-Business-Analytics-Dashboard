@@ -405,7 +405,7 @@ Combining Human + AI for decision making
 
 ## **🔗 Connect with me on LinkedIn:**
 
-https://www.linkedin.com/in/jakkula-saiteja/
+💼 https://www.linkedin.com/in/jakkula-saiteja/
 
 ⭐ If you found this useful
 
