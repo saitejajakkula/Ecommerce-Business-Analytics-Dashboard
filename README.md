@@ -1,4 +1,5 @@
 ## **Global E-Commerce Profitability & Sales Performance Analysis**
+
 <img width="1895" height="596" alt="Screenshot (209)" src="https://github.com/user-attachments/assets/6fb16cca-f676-4b50-8fbe-2e35f8436e7d" />
 
 ---
@@ -33,6 +34,7 @@ The goal of this project is to:
 ---
 
 ## **KPI Analysis Based on the Dataset**
+
 <img width="1896" height="178" alt="Screenshot (198)" src="https://github.com/user-attachments/assets/a49d5887-9355-44bb-a286-d46b03c8eeae" />
 
 ### **1. Total Revenue**
@@ -194,59 +196,70 @@ Marketing ROI: 8.03x
 
 ## **Data Requirements Gathered**
 
-### **1. Order / Transaction Data**
+## **1. Order / Transaction Data**
 
 Columns used: Order_ID, Order_Date
+
 Why needed: Identify each transaction uniquely and analyze sales trends over time.
 
-### **2. Market / Geographic Data**
+## **2. Market / Geographic Data**
 
 Columns used: Region
+
 Why needed: Compare sales performance across regions.
 
-### **3. Product Category Data**
+## **3. Product Category Data**
 
 Columns used: Category
+
 Why needed: Identify top-performing categories.
 
-### **4. Sales Channel Data**
+## **4. Sales Channel Data**
 
 Columns used: Sales_Channel
+
 Why needed: Evaluate performance across Online, Retail, and Marketplace.
 
-### **5. Sales Volume Data**
+## **5. Sales Volume Data**
 
 Columns used: Units_Sold
+
 Why needed: Measure demand and volume trends.
 
-### **6. Pricing Data**
+## **6. Pricing Data**
 
 Columns used: Unit_Price
+
 Why needed: Understand pricing impact.
 
-### **7. Discount Data**
+## **7. Discount Data**
 
 Columns used: Discount_%
+
 Why needed: Analyze effect on margins.
 
-### **8. Revenue Data**
+## **8. Revenue Data**
 
 Columns used: Revenue
+
 Why needed: Measure total performance.
 
-### **9. Cost Data**
+## **9. Cost Data**
 
 Columns used: COGS_per_unit, Total_COGS
+
 Why needed: Analyze cost and profitability.
 
-### **10. Marketing Data**
+## **10. Marketing Data**
 
 Columns used: Marketing_Spend
+
 Why needed: Evaluate marketing efficiency.
 
-### **11. Profitability Data**
+## **11. Profitability Data**
 
 Columns used: Profit, Profit_Margin_%
+
 Why needed: Measure financial performance.
 
 ---
@@ -268,22 +281,25 @@ Profitability: Profit, Profit_Margin_%
 ---
 
 ## **Core Data Analysis**
+
 <img width="1881" height="883" alt="Screenshot (199)" src="https://github.com/user-attachments/assets/d2ce6e2d-2011-4cc9-a89e-ca0abaf0488a" />
 <img width="1873" height="120" alt="Screenshot (201)" src="https://github.com/user-attachments/assets/d1ecb553-a7b8-4044-91c1-366a2cbde7c1" />
 
-**1. Electronics and Home generate lower profit compared to revenue → Indicates high costs or discounting.**
+## **1. Electronics and Home generate lower profit compared to revenue → Indicates high costs or discounting.**
+
 <img width="1873" height="629" alt="Screenshot (202)" src="https://github.com/user-attachments/assets/666fe0df-7011-4f6a-833f-cab4b1437a36" />
 
-**2. Asia is the lowest-performing region → Suggests inefficiencies.**
+## **2. Asia is the lowest-performing region → Suggests inefficiencies.**
+
 <img width="1894" height="620" alt="Screenshot (208)" src="https://github.com/user-attachments/assets/419bbb13-56e9-4cd2-8532-bb49af22e428" />
 
 <img width="1877" height="505" alt="Screenshot (203)" src="https://github.com/user-attachments/assets/c58c0a00-c41d-48b2-8519-c2ac342d411b" />
 
-**4. High discounts (20–30%) reduce profit → Some orders even negative.**
+## **4. High discounts (20–30%) reduce profit → Some orders even negative.**
 
-**5. Retail channel is most profitable → Direct sales are stronger.**
+## **5. Retail channel is most profitable → Direct sales are stronger.**
 
-**6. Marketing ROI is strong (8.03x) → Efficient but can be optimized.**
+## **6. Marketing ROI is strong (8.03x) → Efficient but can be optimized.**
 
 ---
 
@@ -298,6 +314,7 @@ Focusing on high-performing categories, strengthening retail channels, and optim
 ---
 
 ## **Business Insights**
+
 <img width="1893" height="240" alt="Screenshot (210)" src="https://github.com/user-attachments/assets/918504d2-42cc-42e7-ba14-4f93aa074b37" />
 
 * Discounts reduce profit margins
@@ -310,6 +327,7 @@ Focusing on high-performing categories, strengthening retail channels, and optim
 ---
 
 ## **Strategic Recommendations**
+
 <img width="1878" height="640" alt="Screenshot (205)" src="https://github.com/user-attachments/assets/3fdad6dd-cc95-4616-b6ef-8b94ebd7721b" />
 
 * Optimize discount strategy
@@ -318,6 +336,7 @@ Focusing on high-performing categories, strengthening retail channels, and optim
 * Strengthen Retail channel
 * Improve Asia strategy
 * Optimize marketing allocation
+  
 <img width="1878" height="403" alt="Screenshot (204)" src="https://github.com/user-attachments/assets/d36b619c-e370-4e10-b1e7-eb567379e49a" />
 
 ---
