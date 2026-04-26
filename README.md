@@ -370,3 +370,8 @@ The company demonstrates strong revenue performance, but profitability depends o
 
 By optimizing these factors, the business can significantly improve profit margins and long-term growth.
 
+## **Project link**
+
+🔗 Live Dashboard: https://saitejajakkula.github.io/Ecommerce-Business-Analytics-Dashboard/
+
+🔗 Author (LinkedIn): https://www.linkedin.com/in/jakkula-saiteja/
