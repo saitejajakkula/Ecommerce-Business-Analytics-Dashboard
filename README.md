@@ -1,4 +1,4 @@
-#**Global E-Commerce Profitability & Sales Performance Analysis**
+**Global E-Commerce Profitability & Sales Performance Analysis**
 <img width="1895" height="596" alt="Screenshot (209)" src="https://github.com/user-attachments/assets/6fb16cca-f676-4b50-8fbe-2e35f8436e7d" />
 
 ---
@@ -270,19 +270,19 @@ Profitability: Profit, Profit_Margin_%
 <img width="1881" height="883" alt="Screenshot (199)" src="https://github.com/user-attachments/assets/d2ce6e2d-2011-4cc9-a89e-ca0abaf0488a" />
 <img width="1873" height="120" alt="Screenshot (201)" src="https://github.com/user-attachments/assets/d1ecb553-a7b8-4044-91c1-366a2cbde7c1" />
 
-1. Electronics and Home generate lower profit compared to revenue → Indicates high costs or discounting.
+**1. Electronics and Home generate lower profit compared to revenue → Indicates high costs or discounting.**
 <img width="1873" height="629" alt="Screenshot (202)" src="https://github.com/user-attachments/assets/666fe0df-7011-4f6a-833f-cab4b1437a36" />
 
-2. Asia is the lowest-performing region → Suggests inefficiencies.
+**2. Asia is the lowest-performing region → Suggests inefficiencies.**
 <img width="1894" height="620" alt="Screenshot (208)" src="https://github.com/user-attachments/assets/419bbb13-56e9-4cd2-8532-bb49af22e428" />
 
 <img width="1877" height="505" alt="Screenshot (203)" src="https://github.com/user-attachments/assets/c58c0a00-c41d-48b2-8519-c2ac342d411b" />
 
-4. High discounts (20–30%) reduce profit → Some orders even negative.
+**4. High discounts (20–30%) reduce profit → Some orders even negative.**
 
-5. Retail channel is most profitable → Direct sales are stronger.
+**5. Retail channel is most profitable → Direct sales are stronger.**
 
-6. Marketing ROI is strong (8.03x) → Efficient but can be optimized.
+**6. Marketing ROI is strong (8.03x) → Efficient but can be optimized.**
 
 ---
 
