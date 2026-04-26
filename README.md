@@ -351,6 +351,7 @@ Focusing on high-performing categories, strengthening retail channels, and optim
 
 Figure: Strategic Recommendations Framework for Improving Profitability
 
+---
 
 * Optimize discount strategy
 * Focus on high-profit categories
