@@ -291,13 +291,13 @@ Profitability: Profit, Profit_Margin_%
 
 Figure: Monthly Revenue & Profit Trend alongside Revenue Distribution by Sales Channel
 
-
-
-## **1. Electronics and Home generate lower profit compared to revenue → Indicates high costs or discounting.**
-
 <img width="1873" height="629" alt="Screenshot (202)" src="https://github.com/user-attachments/assets/666fe0df-7011-4f6a-833f-cab4b1437a36" />
 
 Figure: Category–Channel Revenue Distribution, Discount Impact on Orders & Revenue, and Marketing Spend vs Profit by Category
+
+
+**1. Electronics and Home generate lower profit compared to revenue → Indicates high costs or discounting.**
+
 
 
 ## **2. Asia is the lowest-performing region → Suggests inefficiencies.**
