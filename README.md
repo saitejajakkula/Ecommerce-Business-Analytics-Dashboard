@@ -293,13 +293,14 @@ Profitability: Profit, Profit_Margin_%
 
 <img width="1894" height="620" alt="Screenshot (208)" src="https://github.com/user-attachments/assets/419bbb13-56e9-4cd2-8532-bb49af22e428" />
 
+
 <img width="1877" height="505" alt="Screenshot (203)" src="https://github.com/user-attachments/assets/c58c0a00-c41d-48b2-8519-c2ac342d411b" />
 
-## **4. High discounts (20–30%) reduce profit → Some orders even negative.**
+## **3. High discounts (20–30%) reduce profit → Some orders even negative.**
 
-## **5. Retail channel is most profitable → Direct sales are stronger.**
+## **4. Retail channel is most profitable → Direct sales are stronger.**
 
-## **6. Marketing ROI is strong (8.03x) → Efficient but can be optimized.**
+## **5. Marketing ROI is strong (8.03x) → Efficient but can be optimized.**
 
 ---
 
@@ -317,6 +318,7 @@ Focusing on high-performing categories, strengthening retail channels, and optim
 
 <img width="1893" height="240" alt="Screenshot (210)" src="https://github.com/user-attachments/assets/918504d2-42cc-42e7-ba14-4f93aa074b37" />
 
+
 * Discounts reduce profit margins
 * Electronics has lower profitability
 * Sports and Clothing are strong profit drivers
@@ -329,6 +331,7 @@ Focusing on high-performing categories, strengthening retail channels, and optim
 ## **Strategic Recommendations**
 
 <img width="1878" height="640" alt="Screenshot (205)" src="https://github.com/user-attachments/assets/3fdad6dd-cc95-4616-b6ef-8b94ebd7721b" />
+
 
 * Optimize discount strategy
 * Focus on high-profit categories
