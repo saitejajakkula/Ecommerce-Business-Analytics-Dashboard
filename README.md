@@ -378,7 +378,7 @@ By optimizing these factors, the business can significantly improve profit margi
 
 Tools: Python (csv, json, defaultdict), Chart.js, HTML, CSS, JavaScript, GitHub Pages
 
-Dashboard is Completely automated with the help of AI Claude
+I used AI tools like Claude to streamline dashboard development and automate parts of the workflow, while I defined the business problem, selected the KPIs, validated the data, and delivered the key insights and recommendations.
 
 Skills: Data Analysis, KPI Calculation, Business Analysis, Data Visualization, Dashboard Design, Data Storytelling
 
